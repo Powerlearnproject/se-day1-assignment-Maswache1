@@ -48,7 +48,6 @@ It is important for quality control measure such as code review, automated testi
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is all about crafting your questions or instructions in a way that helps get the best response from your robot or AI assistant. 
 its importance is that it helps improve the interaction between humans and AI
